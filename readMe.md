@@ -7,7 +7,7 @@ Ce script Python génère des grilles de bingo personnalisées à partir d'un do
 
 1. Assurez-vous d'avoir Python installé sur votre système. 
 Sur windows télécharger le programme d'installation sur https://www.python.org/ et cocher la case "Add Python x.x to PATH" lors de l'installation.
-2. Clonez ce dépôt.
+2. Clonez ce dépôt ou télécharger le zip (bouton **<> Code**).
 
 ## Dépendances
 
