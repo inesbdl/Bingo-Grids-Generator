@@ -1,0 +1,3 @@
+# Ignorer tous les fichiers d'images sauf "empty_cell.png"
+images/*.png
+!images/empty_cell.png
